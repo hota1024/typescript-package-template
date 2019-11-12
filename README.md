@@ -11,7 +11,6 @@ TypesScript package template.
 - Prettier
 - Jest
 - Github Actions
+- CircleCI
 
 ## :white_check_mark: TODO
-
-- CircleCI
