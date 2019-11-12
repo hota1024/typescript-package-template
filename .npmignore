@@ -1,6 +1,7 @@
 tests
 /src
 /coverage
+/.github
 .eslint*
 .prettierrc
 .babelrc
