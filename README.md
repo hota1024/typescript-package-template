@@ -2,7 +2,7 @@
 
 TypesScript package template.
 
-## :rocket: Features
+## :rocket: Features and Environment
 
 - TypeScript
 - Babel
