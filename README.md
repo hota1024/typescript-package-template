@@ -10,8 +10,8 @@ TypesScript package template.
 - Eslint
 - Prettier
 - Jest
+- Github Actions
 
 ## :white_check_mark: TODO
 
 - CircleCI
-- Github Actions
