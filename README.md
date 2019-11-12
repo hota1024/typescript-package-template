@@ -2,7 +2,7 @@
 
 TypesScript package template.
 
-## :rocket: Futures
+## :rocket: Features
 
 - TypeScript
 - Babel
@@ -14,3 +14,4 @@ TypesScript package template.
 - CircleCI
 
 ## :white_check_mark: TODO
+None.
